@@ -11,5 +11,6 @@ public class OrderMain80 {
         SpringApplication.run(OrderMain80.class,args);
         System.out.println("hello");
         System.out.println("hello");
+        System.out.println("hello");
     }
 }
